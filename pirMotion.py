@@ -8,8 +8,8 @@ from twilio.rest import Client
 import sys
 
 # Setup variables
-account_sid = "AC055d249bea408ca762879952ffdb2bc1"
-auth_token = "3285301a87f28ed952e5822cb0a74fc6"
+account_sid = ""
+auth_token = ""
 client = Client(account_sid, auth_token)
 
 
